@@ -7,5 +7,5 @@ Below are the regression models I'll be building.
 1. Linear Regression
 2. Polynomial Regression
 3. SVM 
-4 Decision Tree
+4. Decision Tree
 5.Random Forest
