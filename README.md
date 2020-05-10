@@ -4,8 +4,7 @@ This repository is mainly focused on calcofi data from kaggle. Different ML mode
 
 Below are the regression models I'll be building.
 1. Linear Regression
-2. Multi Linear Regression
-3. Polynomial Regression
-4. SVM 
-5 Decision Tree
-6.Random Forest
+2. Polynomial Regression
+3. SVM 
+4 Decision Tree
+5.Random Forest
